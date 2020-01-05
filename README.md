@@ -1,4 +1,4 @@
-## Spw_PCIe_Adapter_Software_using_WDF_and_Qt
+## PCIe_Adapter_Software_using_WDF_and_Qt
 This code is for a PCIe Adapter Card.
 Driver is implemented based on WDF using C language.
 Application is implemented based on Qt using C++.
